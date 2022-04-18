@@ -1,4 +1,4 @@
-package funnyName;
+
 
 public class Heck {
 	
